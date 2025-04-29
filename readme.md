@@ -59,5 +59,5 @@ To get started, clone the repository and install the necessary dependencies:
 git clone https://github.com/yourusername/multilingual-ner.git
 cd multilingual-ner
 pip install -r requirements.txt
-'''
+```
 
